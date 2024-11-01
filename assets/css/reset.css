@@ -1,0 +1,35 @@
+.rjte-pricing-table-redesign-wrapper a, .rjte-pricing-table-redesign-wrapper abbr, .rjte-pricing-table-redesign-wrapper acronym, .rjte-pricing-table-redesign-wrapper address, .rjte-pricing-table-redesign-wrapper applet, .rjte-pricing-table-redesign-wrapper article, .rjte-pricing-table-redesign-wrapper aside, .rjte-pricing-table-redesign-wrapper audio, .rjte-pricing-table-redesign-wrapper b, .rjte-pricing-table-redesign-wrapper blockquote, .rjte-pricing-table-redesign-wrapper big, .rjte-pricing-table-redesign-wrapper body, .rjte-pricing-table-redesign-wrapper center, .rjte-pricing-table-redesign-wrapper canvas, .rjte-pricing-table-redesign-wrapper caption, .rjte-pricing-table-redesign-wrapper cite, .rjte-pricing-table-redesign-wrapper code, .rjte-pricing-table-redesign-wrapper command, .rjte-pricing-table-redesign-wrapper datalist, .rjte-pricing-table-redesign-wrapper dd, .rjte-pricing-table-redesign-wrapper del, .rjte-pricing-table-redesign-wrapper details, .rjte-pricing-table-redesign-wrapper dfn, .rjte-pricing-table-redesign-wrapper dl, .rjte-pricing-table-redesign-wrapper div, .rjte-pricing-table-redesign-wrapper dt, .rjte-pricing-table-redesign-wrapper em, .rjte-pricing-table-redesign-wrapper embed, .rjte-pricing-table-redesign-wrapper fieldset, .rjte-pricing-table-redesign-wrapper figcaption, .rjte-pricing-table-redesign-wrapper figure, .rjte-pricing-table-redesign-wrapper font, .rjte-pricing-table-redesign-wrapper footer, .rjte-pricing-table-redesign-wrapper form, .rjte-pricing-table-redesign-wrapper h1, .rjte-pricing-table-redesign-wrapper h2, .rjte-pricing-table-redesign-wrapper h3, .rjte-pricing-table-redesign-wrapper h4, .rjte-pricing-table-redesign-wrapper h5, .rjte-pricing-table-redesign-wrapper h6, .rjte-pricing-table-redesign-wrapper header, .rjte-pricing-table-redesign-wrapper hgroup, .rjte-pricing-table-redesign-wrapper html, .rjte-pricing-table-redesign-wrapper i, .rjte-pricing-table-redesign-wrapper iframe, .rjte-pricing-table-redesign-wrapper img, .rjte-pricing-table-redesign-wrapper ins, .rjte-pricing-table-redesign-wrapper kbd, .rjte-pricing-table-redesign-wrapper keygen, .rjte-pricing-table-redesign-wrapper label, .rjte-pricing-table-redesign-wrapper legend, .rjte-pricing-table-redesign-wrapper li, .rjte-pricing-table-redesign-wrapper meter, .rjte-pricing-table-redesign-wrapper nav, .rjte-pricing-table-redesign-wrapper object, .rjte-pricing-table-redesign-wrapper ol, .rjte-pricing-table-redesign-wrapper output, .rjte-pricing-table-redesign-wrapper p, .rjte-pricing-table-redesign-wrapper pre, .rjte-pricing-table-redesign-wrapper progress, .rjte-pricing-table-redesign-wrapper q, .rjte-pricing-table-redesign-wrapper s, .rjte-pricing-table-redesign-wrapper samp, .rjte-pricing-table-redesign-wrapper section, .rjte-pricing-table-redesign-wrapper small, .rjte-pricing-table-redesign-wrapper span, .rjte-pricing-table-redesign-wrapper source, .rjte-pricing-table-redesign-wrapper strike, .rjte-pricing-table-redesign-wrapper strong, .rjte-pricing-table-redesign-wrapper sub, .rjte-pricing-table-redesign-wrapper sup, .rjte-pricing-table-redesign-wrapper table, .rjte-pricing-table-redesign-wrapper tbody, .rjte-pricing-table-redesign-wrapper tfoot, .rjte-pricing-table-redesign-wrapper thead, .rjte-pricing-table-redesign-wrapper th, .rjte-pricing-table-redesign-wrapper tr, .rjte-pricing-table-redesign-wrapper tdvideo, .rjte-pricing-table-redesign-wrapper tt, .rjte-pricing-table-redesign-wrapper u, .rjte-pricing-table-redesign-wrapper ul, .rjte-pricing-table-redesign-wrapper var {
+  background: transparent;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none; }
+
+.rjte-pricing-table-redesign-wrapper ol, .rjte-pricing-table-redesign-wrapper ul {
+  list-style: none; }
+
+.rjte-pricing-table-redesign-wrapper blockquote, .rjte-pricing-table-redesign-wrapper q {
+  quotes: none; }
+
+.rjte-pricing-table-redesign-wrapper table, .rjte-pricing-table-redesign-wrapper table td {
+  padding: 0;
+  border: none;
+  border-collapse: collapse; }
+
+.rjte-pricing-table-redesign-wrapper img {
+  vertical-align: top; }
+
+.rjte-pricing-table-redesign-wrapper embed {
+  vertical-align: top; }
+
+.rjte-pricing-table-redesign-wrapper article, .rjte-pricing-table-redesign-wrapper aside, .rjte-pricing-table-redesign-wrapper audio, .rjte-pricing-table-redesign-wrapper canvas, .rjte-pricing-table-redesign-wrapper command, .rjte-pricing-table-redesign-wrapper datalist, .rjte-pricing-table-redesign-wrapper details, .rjte-pricing-table-redesign-wrapper embed, .rjte-pricing-table-redesign-wrapper figcaption, .rjte-pricing-table-redesign-wrapper figure, .rjte-pricing-table-redesign-wrapper footer, .rjte-pricing-table-redesign-wrapper header, .rjte-pricing-table-redesign-wrapper hgroup, .rjte-pricing-table-redesign-wrapper keygen, .rjte-pricing-table-redesign-wrapper meter, .rjte-pricing-table-redesign-wrapper nav, .rjte-pricing-table-redesign-wrapper output, .rjte-pricing-table-redesign-wrapper progress, .rjte-pricing-table-redesign-wrapper section, .rjte-pricing-table-redesign-wrapper source, .rjte-pricing-table-redesign-wrapper video {
+  display: block; }
+
+.rjte-pricing-table-redesign-wrapper mark, .rjte-pricing-table-redesign-wrapper rp, .rjte-pricing-table-redesign-wrapper rt, .rjte-pricing-table-redesign-wrapper ruby, .rjte-pricing-table-redesign-wrapper summary, .rjte-pricing-table-redesign-wrapper time {
+  display: inline; }
